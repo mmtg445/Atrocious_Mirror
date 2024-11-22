@@ -1,6 +1,7 @@
 aiofiles
 aiohttp
 aioshutil
+blinker==1.7.0
 anytree
 apscheduler
 aria2p
